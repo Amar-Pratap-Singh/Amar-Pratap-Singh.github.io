@@ -1,1 +1,1 @@
-# GIS-Project
+# Level of Details using Three.js
